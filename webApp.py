@@ -20,7 +20,6 @@ st.set_page_config(page_title="LLM Exam App", layout="wide")
 # -------------------------------
 @st.cache_resource
 def load_model():
-    # Replace "gpt2" with your desired model if needed
     model_name = "unsloth/Qwen2.5-14B-Instruct-1M-unsloth-bnb-4bit"
     tokenizer = AutoTokenizer.from_pretrained(model_name)
     model = AutoModelForCausalLM.from_pretrained(model_name)
