@@ -32,7 +32,7 @@ tokenizer, model, device = load_model()
 # -------------------------------
 # Generation parameters and base prompt text
 # -------------------------------
-BASE_PROMPT = "Generate 5 new different exam question in Markdown format based on the following text:\n"
+BASE_PROMPT = "You are a very smart and knowledgable assistant who is tasked with generating questions for an exam based on the text you are provided that contains different previous year question papers of the subject, you must generaete questions similar to and testing similar things to the input text. You are supposed to generate the output in markdown(.md) format.\n"
 MAX_NEW_TOKENS = 20000  # Adjust as needed
 TEMPERATURE = 0.7
 TOP_P = 0.9
@@ -74,8 +74,10 @@ with col_center:
     
     # Chat input widget
     chat_input = st.text_input("Enter your message here", key="chat_input")
+    user_string = chat_input 
     if st.button("Send Chat"):
         if chat_input:
+            user_string = chat_input 
             # Append user message
             st.session_state["chat_history"].append({"role": "User", "message": chat_input})
             # For demo purposes, the bot echoes the text back.
@@ -89,7 +91,7 @@ with col_right:
     if st.button("Generate Questions"):
         st.write("Generating response...")
         # Create a combined prompt using the base text plus (a slice of) document content
-        combined_prompt = BASE_PROMPT
+        combined_prompt = BASE_PROMPT + user_string
         if st.session_state.get("pdf_text"):
             # Use only the first 1000 characters of the extracted text
             combined_prompt += st.session_state["pdf_text"][:1000] + "\n"
