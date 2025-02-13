@@ -22,9 +22,9 @@ st.set_page_config(page_title="LLM Exam App", layout="wide")
 def load_model():
     model_name = "unsloth/Qwen2.5-14B-Instruct-1M-unsloth-bnb-4bit"
     tokenizer = AutoTokenizer.from_pretrained(model_name)
-    model = AutoModelForCausalLM.from_pretrained(model_name)
+    model = AutoModelForCausalLM.from_pretrained(model_name, device_map="auto")
     device = "cuda" if torch.cuda.is_available() else "cpu"
-    model.to(device)
+    # model.to(device)
     return tokenizer, model, device
 
 tokenizer, model, device = load_model()
