@@ -1,0 +1,415 @@
+[
+    {
+        "id": "q28",
+        "subject": "Computer Science",
+        "topic": "Computer Architecture",
+        "concept": "Pipeline Processing",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q5",
+        "subject": "Mathematics",
+        "topic": "Number Systems",
+        "concept": "Base Conversion",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q11",
+        "subject": "Computer Science",
+        "topic": "Algorithms",
+        "concept": "Selection Sort",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q41",
+        "subject": "Computer Science",
+        "topic": "Automata Theory",
+        "concept": "Deterministic Finite Automaton",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q32",
+        "subject": "Computer Science",
+        "topic": "Operating Systems",
+        "concept": "Process States",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q43",
+        "subject": "Computer Science",
+        "topic": "Database Systems",
+        "concept": "Transaction Scheduling",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q46",
+        "subject": "Computer Science",
+        "topic": "Cryptography",
+        "concept": "RSA Algorithm",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q44",
+        "subject": "Computer Science",
+        "topic": "Data Structures",
+        "concept": "B+ Trees",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q25",
+        "subject": "Mathematics",
+        "topic": "Calculus",
+        "concept": "Integration",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q14",
+        "subject": "Computer Science",
+        "topic": "Complexity Theory",
+        "concept": "NP-Completeness",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q17",
+        "subject": "Computer Science",
+        "topic": "Compiler Design",
+        "concept": "Syntax Analysis",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q59",
+        "subject": "Computer Science",
+        "topic": "Data Structures",
+        "concept": "Binary Heaps",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q48",
+        "subject": "Computer Science",
+        "topic": "Error Detection",
+        "concept": "CRC Polynomial",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q47",
+        "subject": "Computer Science",
+        "topic": "Networking",
+        "concept": "Sequence Number Generation",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q7",
+        "subject": "Computer Science",
+        "topic": "Digital Electronics",
+        "concept": "RAM Memory",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q19",
+        "subject": "Computer Science",
+        "topic": "Software Engineering",
+        "concept": "Coupling Types",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q20",
+        "subject": "Web Development",
+        "topic": "HTML",
+        "concept": "Table Structure",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q10",
+        "subject": "Computer Science",
+        "topic": "Operating Systems",
+        "concept": "Page Tables",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q27",
+        "subject": "Computer Science",
+        "topic": "Automata Theory",
+        "concept": "Finite State Machines",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q21",
+        "subject": "Mathematics",
+        "topic": "Probability",
+        "concept": "Bayes' Theorem",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q34",
+        "subject": "Computer Science",
+        "topic": "Operating Systems",
+        "concept": "Page Tables",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q16",
+        "subject": "Computer Science",
+        "topic": "Automata Theory",
+        "concept": "Deterministic PDA",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q35",
+        "subject": "Computer Science",
+        "topic": "Algorithms",
+        "concept": "Recurrence Relations",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q37",
+        "subject": "Computer Science",
+        "topic": "Data Structures",
+        "concept": "AVL Trees",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q30",
+        "subject": "Computer Science",
+        "topic": "Operating Systems",
+        "concept": "Deadlocks",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q51",
+        "subject": "Computer Science",
+        "topic": "Data Structures",
+        "concept": "Sector Addressing",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q42",
+        "subject": "Computer Science",
+        "topic": "Programming Languages",
+        "concept": "Parsing Algorithms",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q3",
+        "subject": "Computer Science",
+        "topic": "Graph Theory",
+        "concept": "Vertex Degree",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q29",
+        "subject": "Computer Science",
+        "topic": "Cache Management",
+        "concept": "LRU Replacement Policy",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q6",
+        "subject": "Computer Science",
+        "topic": "Digital Logic",
+        "concept": "NOR Gates",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q58",
+        "subject": "Networking",
+        "topic": "Networking Protocols",
+        "concept": "Sliding Window Protocol",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q50",
+        "subject": "Computer Science",
+        "topic": "Software Engineering",
+        "concept": "Cyclomatic Complexity",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q1",
+        "subject": "Mathematics",
+        "topic": "Algebra",
+        "concept": "Group Theory",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q15",
+        "subject": "Computer Science",
+        "topic": "Automata Theory",
+        "concept": "Regular Expressions",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q57",
+        "subject": "Computer Science",
+        "topic": "Data Structures",
+        "concept": "Binary Representation",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q26",
+        "subject": "Logic",
+        "topic": "Propositional Logic",
+        "concept": "Logical Equivalence",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q31",
+        "subject": "Computer Science",
+        "topic": "Algorithms",
+        "concept": "Shortest Seek Time First",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q9",
+        "subject": "Computer Science",
+        "topic": "Operating Systems",
+        "concept": "Belady's Anomaly",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q45",
+        "subject": "Computer Science",
+        "topic": "Database Management",
+        "concept": "Relational Algebra",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q23",
+        "subject": "Logic",
+        "topic": "Propositional Logic",
+        "concept": "Logical Formulas",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q22",
+        "subject": "Mathematics",
+        "topic": "Group Theory",
+        "concept": "Generators",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q13",
+        "subject": "Computer Science",
+        "topic": "Algorithms",
+        "concept": "Bellman-Ford Algorithm",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q56",
+        "subject": "Database Management Systems",
+        "topic": "Normalization",
+        "concept": "BCNF",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q36",
+        "subject": "Computer Science",
+        "topic": "Data Structures",
+        "concept": "Hash Tables",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q8",
+        "subject": "Computer Science",
+        "topic": "Operating Systems",
+        "concept": "Interrupt Handling",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q18",
+        "subject": "Computer Science",
+        "topic": "Programming",
+        "concept": "Recursion",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q49",
+        "subject": "Computer Science",
+        "topic": "Data Flow Diagrams",
+        "concept": "Context Diagram",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q2",
+        "subject": "Graph Theory",
+        "topic": "Graph Coloring",
+        "concept": "Chromatic Number",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q54",
+        "subject": "Computer Science",
+        "topic": "Algorithms",
+        "concept": "Dynamic Programming",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q38",
+        "subject": "Computer Science",
+        "topic": "Graph Theory",
+        "concept": "Minimum Spanning Tree",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q12",
+        "subject": "Computer Science",
+        "topic": "Formal Languages",
+        "concept": "Context-Free Grammars",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q53",
+        "subject": "Computer Science",
+        "topic": "Algorithms",
+        "concept": "Longest Common Subsequence",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q4",
+        "subject": "Mathematics",
+        "topic": "Set Theory",
+        "concept": "Binary Relations",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q52",
+        "subject": "Computer Science",
+        "topic": "Data Structures",
+        "concept": "Sector Addressing",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q24",
+        "subject": "Mathematics",
+        "topic": "Logic",
+        "concept": "Binary Operation",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q33",
+        "subject": "Computer Science",
+        "topic": "Operating Systems",
+        "concept": "Critical Section",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q55",
+        "subject": "Database Management Systems",
+        "topic": "SQL",
+        "concept": "Relational Algebra",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q39",
+        "subject": "Computer Science",
+        "topic": "Algorithms",
+        "concept": "QuickSort",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q40",
+        "subject": "Computer Science",
+        "topic": "Formal Languages",
+        "concept": "Regular Languages",
+        "difficulty": "Medium"
+    }
+]
